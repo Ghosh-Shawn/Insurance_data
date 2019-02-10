@@ -10,7 +10,7 @@ The propensity has been calculated as the probabilty of receiving a premium on a
 ### Optimising Net Revenue
 The net revenue across all policies are calculated in the following manner:
 
-![img](http://latex.codecogs.com/svg.latex?Total%5C%2CRevenue%3D%5Csum_%7Bacross%5C%2Call%5C%2Cpolicies%7D%28p_%7Bb%7D%2B%5CDelta%00p%29%2Apremium%5C%2Con%5C%2Cpolicy-Incentives%5C%2Con%5C%2Cpolicy%29)
+![img](http://latex.codecogs.com/svg.latex?Total%5C%2CRevenue%3D%5Csum_%7Bacross%5C%2Call%5C%2Cpolicies%7D%28p_%7Bb%7D%2B%5CDelta%5C%2Cp%29%2Apremium%5C%2Con%5C%2Cpolicy-Incentives%5C%2Con%5C%2Cpolicy%29)
 
 where, 
 * pb is the renewal probability predicted using a benchmark model by the insurance company
