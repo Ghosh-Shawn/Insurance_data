@@ -18,8 +18,10 @@ where,
 * ‘Premium on policy’ is the premium paid by the policy holder for the policy in consideration
 * Incentive on policy’ is the incentive given to the agent for increasing the chance of renewal (estimated by the participant) on each policy
 
+optimisation performed using SciPy optimize libray
 
-**Assumptions _effort-incentives_ and _improvement in renewal prob vs effort_ relationships**
+
+**Assumptions for _effort vs incentives_ and _improvement in renewal prob vs effort_ relationships**
 
 Equation for the effort-incentives curve: Y = 10*(1-exp(-X/400))
 
